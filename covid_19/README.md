@@ -3,9 +3,6 @@ This repository is a case study, analysis, and visualization of COVID-19 Pandemi
 # Open to All
 If you want to contribute to the notebook or any feedback and suggestions are most welcome. 
  
-# Kaggle
-[Follow me on Kaggle](https://www.kaggle.com/tarunk04)<br>
-[View Latest Version](https://www.kaggle.com/tarunk04/covid-19-case-study-analysis-viz-comparisons)
 
 Silent Features 
 ================
@@ -59,17 +56,3 @@ Global Conformed Case Prediction
 Prediction using the ML model for both global confirmed cases and deaths.<br>
 ![Prediction _table](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/2020-04-15%2003_10_17-COVID-19%20Case%20Study%20-%20Analysis%2C%20Viz%20%26%20Comparisons%20_%20Kaggle.png)
 
-<b>To get full insights and visualization see the notebook on KAGGLE [View Latest Version Notebook](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons) </b>
-
---------------------
-[![BuyMeCoffe](https://cdn-images-1.medium.com/max/800/1*Dpw8-hNGI2fDmosV4E8DVQ.png)](https://www.buymeacoffee.com/tarunkumar)
-
-# Authors
-Tarun Kumar
-
-#### Authors' Note:<br>
-The author has tried to get the best result using the dataset. The author is not responsible for any misuse. Read Licence carefully.
-If you want to contribute to the notebook or any feedback and suggestions are most welcome.
-
-# License
-The MIT License, see the included, see the [License](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE) file.
